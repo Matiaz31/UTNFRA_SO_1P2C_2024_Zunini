@@ -1,5 +1,4 @@
-# UTNFRA_SO_1P2C_2024_Zunini
+# UTNFRA_SO_1P2C_2024
 ## Matias G. Zunini
-### 115728
-313
-### 
+### Legajo: 115728
+### Divicion: 313
