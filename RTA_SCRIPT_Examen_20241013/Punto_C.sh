@@ -1,0 +1,21 @@
+echo "sudo groupadd p1c2_2024_gAlumno"
+echo "sudo groupadd p1c2_2024_gProfesores"
+echo "sudo useradd -m -G p1c2_2024_gAlumno p1c2_2024_A1"
+echo "sudo passwd p1c2_2024_A1"
+echo "Vagrant"
+echo "sudo useradd -m -G p1c2_2024_gAlumno p1c2_2024_A2"
+echo "sudo passwd p1c2_2024_A2"
+echo "Vagrant"
+echo "sudo useradd -m -G p1c2_2024_gAlumno p1c2_2024_A3"
+echo "sudo passwd p1c2_2024_A3"
+echo "Vagrant"
+echo "sudo useradd -m -G p1c2_2024_gProfesores p1c2_2024_P1"
+echo "sudo passwd p1c2_2024_P1"
+echo "Vagrant"
+echo "chmod 750 Examenes-UTN/alumno_1"
+echo "chmod 760 Examenes-UTN/alumno_2"
+echo "chmod 700 Examenes-UTN/alumno_1"
+echo "chmod 775 Examenes-UTN/profesores"
+
+
+
