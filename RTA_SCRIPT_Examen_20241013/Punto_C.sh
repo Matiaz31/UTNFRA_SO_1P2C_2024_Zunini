@@ -14,8 +14,8 @@ echo "sudo passwd p1c2_2024_P1"
 echo "Vagrant"
 echo "chmod 750 Examenes-UTN/alumno_1"
 echo "chmod 760 Examenes-UTN/alumno_2"
-echo "chmod 700 Examenes-UTN/alumno_1"
+echo "chmod 700 Examenes-UTN/alumno_3"
 echo "chmod 775 Examenes-UTN/profesores"
-
+echo 'for usuario in alumno_1 alumno_2 alumno_3 profesores; do echo "$usuario: $(whoami)" > "$usuario/validar.txt" done'
 
 
